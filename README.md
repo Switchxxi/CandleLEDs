@@ -10,6 +10,13 @@ La version 0.3 posee aleatoriedad tanto en la secuencia como en el retardo entre
 
 Clive menciona que en el farol que el muestra usaron PWM. Analizando las imagenes del vídeo parece que lo mas probable es que no y la diferencia en intensidad se deba a la caída en tensión debido a que no usaron resistencias limitadoras por cada LED.
 
+Video:
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/uasz3oLZEpI/0.jpg)](https://www.youtube.com/watch?v=uasz3oLZEpI "Farol LED")
+
+En el vídeo mucho no se aprecia porque los LEDs que use eran los únicos que tenía a mano y no son aptos para este proyecto pero quedo, dentro de todo, decente.
+Esta armado dentro de un tarro de plástico, tuve que agregar una hoja blanca dentro para que difumara la luz de los LEDs.
+
+
 Diagrama Esquemático:
 
 <img src="./Schematic.png">
